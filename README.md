@@ -1,6 +1,6 @@
 #AntManAndTheWaspQuantumaniaLuhn-Algorithm
 
-freeCodeCamp Practice Project. 
+freeCodeCamp Practice Project.
 
 
 Scientific Computing with Python.
